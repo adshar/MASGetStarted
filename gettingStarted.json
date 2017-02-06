@@ -1,0 +1,115 @@
+[
+	{
+            "id": "Microsoft.Compute/VirtualMachines",
+            "name": "Virtual Machines",
+            "description": "Learn how to provision VMs in minutes",
+            "icon": "",
+            "sections": [
+                {
+                    "title": "Creating a Virtual Machine in Azure Stack",
+                    "text": "",
+                    "videoUri": "https://sec.ch9.ms/ch9/9061/93c9ead5-efdb-426b-b7fe-c99df5a99061/AzureStackCreateVM_high.mp4",
+                    "videoPosterUri": ""
+                }
+            ],
+            "links": [
+                {
+                    "id": "learnMore",
+                    "links": [
+                        {
+                            "name": "Provision a Virtual Machine",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-provision-vm"
+                        },
+						{
+							"name": "Create a Storage Account",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-provision-storage-account"						
+						},
+						{
+							"name": "Connect with CLI",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-connect-cli"						
+						},
+						{
+							"name": "Connect with PowerShell",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-connect-powershell"						
+						},
+						{
+							"name": "Connect with Visual Studio",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-install-visual-studio"						
+						},
+						{
+							"name": "Frequently Asked Questions",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-faq"						
+						}
+										
+						
+                    ]
+                }
+            ]
+        },
+		{
+            "id": "Microsoft.Compute/TenantServices",
+            "name": "Offering Tenant Services",
+            "description": "Learn how to offer services to your Tenants",
+            "icon": "https://github.com/adshar/MASGetStarted/blob/master/delegated_offer.svg",
+            "sections": [
+                {
+                    "title": "Setting Quotas for your Tenants",
+                    "text": "",
+                    "videoUri": "https://sec.ch9.ms/ch9/a047/0f629d8b-0c52-4282-a6de-8355aebca047/AzureStackQuotas_high.mp4",
+                    "videoPosterUri": ""
+                },
+				{
+                    "title": "Creating Plans for your Tenants",
+                    "text": "",
+                    "videoUri": "https://sec.ch9.ms/ch9/195a/d98eca09-fb14-4550-a31a-eeba2fba195a/AzureStackPlans_high.mp4",
+                    "videoPosterUri": ""
+                },
+				{
+                    "title": "Creating Offers for your Tenants",
+                    "text": "",
+                    "videoUri": "https://sec.ch9.ms/ch9/b342/a49caf1c-c66d-40bb-8bf1-4525a6eeb342/AzureStackOffers_high.mp4",
+                    "videoPosterUri": ""
+                },
+				{
+                    "title": "Creating Tenant Subscriptions in Azure Stack",
+                    "text": "",
+                    "videoUri": "https://sec.ch9.ms/ch9/5ff6/4536f71f-0cb2-4194-b762-cb63dfdc5ff6/AzureStackTenantSubs_high.mp4",
+                    "videoPosterUri": ""
+                }
+            ],
+            "links": [
+                {
+                    "id": "learnMore",
+                    "links": [
+                        {
+                            "name": "More on Quotas",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-setting-quotas"
+                        },
+						{
+							"name": "More on Plans",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-create-plan"						
+						},
+						{
+							"name": "More on Offers",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-create-offer"						
+						},
+						{
+							"name": "Subscribing to an Offer",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-subscribe-plan-provision-vm"						
+						},
+						{
+							"name": "Delegating Offers",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-delegated-provider"						
+						},
+						{
+							"name": "Frequently Asked Questions",
+                            "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-faq"						
+						}
+						
+						
+						
+                    ]
+                }
+            ]
+        }
+]
