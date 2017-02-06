@@ -47,7 +47,7 @@
             ]
         },
 		{
-            "id": "Microsoft.Compute/TenantServices",
+            "id": "Microsoft.Subscriptions.Admin/offers",
             "name": "Offering Tenant Services",
             "description": "Learn how to offer services to your Tenants",
             "icon": "https://github.com/adshar/MASGetStarted/blob/master/delegated_offer.svg",
