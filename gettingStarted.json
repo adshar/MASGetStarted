@@ -9,7 +9,7 @@
                     "title": "Creating a Virtual Machine in Azure Stack",
                     "text": "",
                     "videoUri": "https://sec.ch9.ms/ch9/9061/93c9ead5-efdb-426b-b7fe-c99df5a99061/AzureStackCreateVM_high.mp4",
-                    "videoPosterUri": ""
+                    "videoPosterUri": "https://raw.githubusercontent.com/adshar/MASGetStarted/master/vm.png"
                 }
             ],
             "links": [
@@ -50,31 +50,32 @@
             "id": "Microsoft.Subscriptions.Admin/offers",
             "name": "Offering Tenant Services",
             "description": "Learn how to offer services to your Tenants",
-            "icon": "https://github.com/adshar/MASGetStarted/blob/master/delegated_offer.svg",
+            "icon": "https://raw.githubusercontent.com/adshar/MASGetStarted/master/delegated_offer.svg",
             "sections": [
                 {
                     "title": "Setting Quotas for your Tenants",
                     "text": "",
                     "videoUri": "https://sec.ch9.ms/ch9/a047/0f629d8b-0c52-4282-a6de-8355aebca047/AzureStackQuotas_high.mp4",
-                    "videoPosterUri": ""
+                    "videoPosterUri": "https://raw.githubusercontent.com/adshar/MASGetStarted/master/quotas.png"
                 },
 				{
                     "title": "Creating Plans for your Tenants",
                     "text": "",
                     "videoUri": "https://sec.ch9.ms/ch9/195a/d98eca09-fb14-4550-a31a-eeba2fba195a/AzureStackPlans_high.mp4",
-                    "videoPosterUri": ""
+                    "videoPosterUri": "https://raw.githubusercontent.com/adshar/MASGetStarted/master/plans.png"
                 },
 				{
                     "title": "Creating Offers for your Tenants",
                     "text": "",
                     "videoUri": "https://sec.ch9.ms/ch9/b342/a49caf1c-c66d-40bb-8bf1-4525a6eeb342/AzureStackOffers_high.mp4",
-                    "videoPosterUri": ""
+                    "videoPosterUri": "https://raw.githubusercontent.com/adshar/MASGetStarted/master/offers.png"
                 },
 				{
                     "title": "Creating Tenant Subscriptions in Azure Stack",
                     "text": "",
                     "videoUri": "https://sec.ch9.ms/ch9/5ff6/4536f71f-0cb2-4194-b762-cb63dfdc5ff6/AzureStackTenantSubs_high.mp4",
-                    "videoPosterUri": ""
+                    "videoPosterUri": "https://raw.githubusercontent.com/adshar/MASGetStarted/master/tensubs.png"
+					
                 }
             ],
             "links": [
@@ -104,9 +105,7 @@
 						{
 							"name": "Frequently Asked Questions",
                             "uri": "https://docs.microsoft.com/en-us/azure/azure-stack/azure-stack-faq"						
-						}
-						
-						
+						}	
 						
                     ]
                 }
